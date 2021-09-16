@@ -175,3 +175,7 @@ git push是将本地库中的最新信息发送给远程库。
 删掉特定的分支：git branch -D branchname
 合并分支：git merge branchname
 
+
+
+### 6. .....
+
