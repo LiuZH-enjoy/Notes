@@ -29,9 +29,6 @@ git config --global user.email "123456789@qq.com"
 
 ​	**所以我在本地新建一个项目，在GitHub也新建了一个对应repository后，在push上去之前，干脆就直接在GitHub上把主分支改回master了，如下图所示，在setting的branches里面，修改默认分支的名字为master.**
 
-<img src="C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20210915190532055.png" alt="image-20210915190532055" style="zoom:50%;" />
-
-
 
 #### 2.3 建立本地仓库并关联远程仓库
 
